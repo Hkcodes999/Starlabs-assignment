@@ -4,7 +4,12 @@ import Home from './componets/Home'
 
 const App = () => {
   return (
-    <Home />
+    <div>
+      <h1 style={{color: 'white', textAlign: 'center', padding: '20px'}}>
+        Event Finder App - Testing Deployment
+      </h1>
+      <Home />
+    </div>
   )
 }
 
