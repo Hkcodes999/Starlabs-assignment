@@ -36,11 +36,6 @@ function Main() {
 
   return (
     <div className="flex h-fit w-full gap-8 p-4 md:p-5 lg:p-10 items-start justify-center flex-wrap">
-      <div className="w-full text-center text-white mb-4">
-        <p>Events loaded: {events.length}</p>
-        <p>Filtered events: {filteredEvents.length}</p>
-        <p>Context working: {events.length > 0 ? 'Yes' : 'No'}</p>
-      </div>
       {events.length === 0 ? (
         <h1 className="text-white text-xl">Loading events...</h1>
       ) : filteredEvents.length > 0 ? (
