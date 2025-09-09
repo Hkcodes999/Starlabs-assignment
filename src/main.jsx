@@ -6,11 +6,9 @@ import "./index.css";
 import { EventProvider } from "./context/EventContext";
 
 createRoot(document.getElementById("root")).render(
-  <React.StrictMode>
-    <BrowserRouter>
-      <EventProvider>
-        <App />
-      </EventProvider>
-    </BrowserRouter>
-  </React.StrictMode>
+  <BrowserRouter>
+    <EventProvider>
+      <App />
+    </EventProvider>
+  </BrowserRouter>
 );

@@ -7,6 +7,7 @@
       "date": "2025-08-20",
       "location": "Bangalore",
       "host": "Yoga with Anu",
+      "img": "https://images.unsplash.com/photo-1686243693635-54b439470428?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Join us for a peaceful yoga session in Cubbon Park."
     },
     {
@@ -16,6 +17,7 @@
       "date": "2025-08-22",
       "location": "Mumbai",
       "host": "Strings Academy",
+      "img": "https://plus.unsplash.com/premium_photo-1663036208929-a0e241dc86d9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Learn the basics of guitar playing with hands-on guidance."
     },
     {
@@ -25,6 +27,7 @@
       "date": "2025-08-25",
       "location": "Delhi",
       "host": "Delhi Entrepreneurs Club",
+      "img": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Meet fellow entrepreneurs, pitch ideas, and network."
     },
     {
@@ -34,6 +37,7 @@
       "date": "2025-08-28",
       "location": "Hyderabad",
       "host": "Marketing Gurus",
+      "img": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Learn the latest trends and strategies in digital marketing."
     },
     {
@@ -43,6 +47,7 @@
       "date": "2025-08-30",
       "location": "Bangalore",
       "host": "Adventure Trails",
+      "img": "https://images.unsplash.com/photo-1497501917125-1d703ac4a255?q=80&w=708&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "An early morning trek to Nandi Hills followed by breakfast."
     },
     {
@@ -52,6 +57,7 @@
       "date": "2025-09-01",
       "location": "Pune",
       "host": "Creative Hands",
+      "img": "https://images.unsplash.com/photo-1605627079912-97c3810a11a4?q=80&w=1107&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Fun and educational art activities for children aged 6–12."
     },
     {
@@ -61,6 +67,7 @@
       "date": "2025-09-03",
       "location": "Chennai",
       "host": "Lens Lovers Club",
+      "img": "https://images.unsplash.com/photo-1590486803833-1c5dc8ddd4c8?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Explore the city while improving your photography skills."
     },
     {
@@ -70,6 +77,7 @@
       "date": "2025-09-05",
       "location": "Kolkata",
       "host": "Chef Maria",
+      "img": "https://images.unsplash.com/photo-1528712306091-ed0763094c98?q=80&w=740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Learn to cook authentic Italian dishes from scratch."
     },
     {
@@ -79,6 +87,7 @@
       "date": "2025-09-07",
       "location": "Goa",
       "host": "Goa Jazz Club",
+      "img": "https://images.unsplash.com/photo-1415201364774-f6f0bb35f28f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "An evening of live jazz performances by local musicians."
     },
     {
@@ -88,6 +97,7 @@
       "date": "2025-09-10",
       "location": "Mumbai",
       "host": "Eco Warriors",
+      "img": "https://plus.unsplash.com/premium_photo-1679689588082-33cef290be4d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Join us in cleaning up Juhu Beach and making a difference."
     },
     {
@@ -97,6 +107,7 @@
       "date": "2025-09-12",
       "location": "Bangalore",
       "host": "Laugh Out Loud",
+      "img": "https://images.unsplash.com/photo-1683304554869-8a871c913096?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A night full of laughter with top stand-up comedians."
     },
     {
@@ -106,6 +117,7 @@
       "date": "2025-09-14",
       "location": "Delhi",
       "host": "Delhi Chess Club",
+      "img": "https://images.unsplash.com/photo-1699743570117-91384b4b0400?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Compete with fellow chess enthusiasts for exciting prizes."
     },
     {
@@ -115,6 +127,7 @@
       "date": "2025-09-16",
       "location": "Rishikesh",
       "host": "Peaceful Minds",
+      "img": "https://plus.unsplash.com/premium_photo-1712935717277-709242612bbe?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A weekend retreat to practice mindfulness and meditation."
     },
     {
@@ -124,6 +137,7 @@
       "date": "2025-09-18",
       "location": "Pune",
       "host": "TechLearn Hub",
+      "img": "https://images.unsplash.com/photo-1559445368-b8a993676d7a?q=80&w=1331&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Understand the basics of blockchain and its applications."
     },
     {
@@ -133,6 +147,7 @@
       "date": "2025-09-20",
       "location": "Jaipur",
       "host": "Nature Explorers",
+      "img": "https://plus.unsplash.com/premium_photo-1722686568915-b40ee8a6c072?q=80&w=1087&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Join us to spot and learn about local bird species."
     },
     {
@@ -142,6 +157,7 @@
       "date": "2025-09-22",
       "location": "Chandigarh",
       "host": "Words & Verses",
+      "img": "https://images.unsplash.com/photo-1714733339983-52caae142930?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "An evening for poets to share their work with the community."
     },
     {
@@ -151,6 +167,7 @@
       "date": "2025-09-24",
       "location": "Ahmedabad",
       "host": "Green Thumbs",
+      "img": "https://images.unsplash.com/photo-1621460248083-6271cc4437a8?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Learn how to start and maintain your own home garden."
     },
     {
@@ -160,6 +177,7 @@
       "date": "2025-09-26",
       "location": "Kochi",
       "host": "Run for Cause",
+      "img": "https://images.unsplash.com/photo-1560789363-cfa0cbf748f8?q=80&w=675&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Participate in a marathon to raise funds for charity."
     },
     {
@@ -169,6 +187,7 @@
       "date": "2025-09-28",
       "location": "Bangalore",
       "host": "Global Friends",
+      "img": "https://plus.unsplash.com/premium_photo-1663047291494-b29cb4f0df9d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Practice languages and make friends from different cultures."
     },
     {
@@ -178,6 +197,7 @@
       "date": "2025-09-30",
       "location": "Mumbai",
       "host": "Cinephiles Club",
+      "img": "https://images.unsplash.com/photo-1658195952756-892740657893?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "An evening of short films by independent filmmakers."
     }
   ]
