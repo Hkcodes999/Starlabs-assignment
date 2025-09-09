@@ -5,7 +5,7 @@ import tailwindcss from "@tailwindcss/vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/YOUR_REPO_NAME/', // Replace with your actual repository name
+  base: '/Starlabs-assignment/', // Repository name for GitHub Pages
   server: {
     host: true
   }
