@@ -1,4 +1,5 @@
-import React from 'react'
+
+ import React from 'react'
 import { Route, Routes } from 'react-router-dom'
 import Details from '../componets/Details';
 import Main from '../componets/Main';
