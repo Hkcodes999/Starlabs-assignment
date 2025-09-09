@@ -100,38 +100,6 @@ src/
 └── index.css           # Global styles
 ```
 
-## 🌐 Deployment
-
-### GitHub Pages
-
-1. **Update vite.config.js**
-   ```javascript
-   export default defineConfig({
-     base: '/YOUR_REPO_NAME/',
-     // ... other config
-   });
-   ```
-
-2. **Build the project**
-   ```bash
-   npm run build
-   ```
-
-3. **Push to GitHub**
-   ```bash
-   git add .
-   git commit -m "Deploy to GitHub Pages"
-   git push origin main
-   ```
-
-4. **Enable GitHub Pages**
-   - Go to repository Settings
-   - Navigate to Pages section
-   - Select "Deploy from a branch"
-   - Choose "main" branch and "/ (root)" folder
-
-Your site will be available at: `https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/`
-
 ## 🎯 Features in Detail
 
 ### Event Discovery
