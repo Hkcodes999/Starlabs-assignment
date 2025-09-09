@@ -6,7 +6,7 @@ import "./index.css";
 import { EventProvider } from "./context/EventContext";
 
 createRoot(document.getElementById("root")).render(
-  <BrowserRouter>
+  <BrowserRouter basename={import.meta.env.PROD ? '/Starlabs-assignment' : '/'}>
     <EventProvider>
       <App />
     </EventProvider>

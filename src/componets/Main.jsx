@@ -32,16 +32,20 @@ function Main() {
     return matches;
   });
 
+  // Debug logging (removed for production)
+
   return (
     <div className="flex h-fit w-full gap-8 p-4 md:p-5 lg:p-10 items-start justify-center flex-wrap">
-      {filteredEvents.length > 0 ? (
+      {events.length === 0 ? (
+        <h1 className="text-white text-xl">Loading events...</h1>
+      ) : filteredEvents.length > 0 ? (
         filteredEvents.map((e, i) => (
           <Link to={`/detail/${e.id}`} key={i}>
             <Cards event={e} />
           </Link>
         ))
       ) : (
-        <h1>Event Not Found</h1>
+        <h1 className="text-white text-xl">No events match your filters</h1>
       )}
     </div>
   );
