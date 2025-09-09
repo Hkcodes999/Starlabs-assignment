@@ -26,8 +26,8 @@ A modern, responsive web application for discovering and managing local events i
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/starlabs-event-app.git
-   cd starlabs-event-app
+   git clone https://github.com/Hkcodes999/Starlabs-assignment.git
+   cd Starlabs-assignment
    ```
 
 2. **Install dependencies**
